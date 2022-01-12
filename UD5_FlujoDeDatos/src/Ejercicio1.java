@@ -1,6 +1,8 @@
 
 public class Ejercicio1 {
 
+	//  @author Adrián Rodriguez
+	
 	public static void main(String[] args) {
 		int num1 = 5;
 		int num2 = 8;

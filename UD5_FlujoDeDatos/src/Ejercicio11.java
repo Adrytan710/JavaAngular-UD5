@@ -2,6 +2,8 @@ import javax.swing.JOptionPane;
 
 public class Ejercicio11 {
 
+	//  @author Adrián Rodriguez
+	
 	public static void main(String[] args) {
 		
 		String diaSemana = new String(JOptionPane.showInputDialog("Introduce un día de la semana"));

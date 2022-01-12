@@ -2,6 +2,8 @@ import javax.swing.JOptionPane;
 
 public class Ejercicio13 {
 
+	//  @author Adrián Rodriguez
+	
 	public static void main(String[] args) {
         double operando1;
         double operando2;

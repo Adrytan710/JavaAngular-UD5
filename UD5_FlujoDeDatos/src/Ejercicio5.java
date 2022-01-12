@@ -2,6 +2,8 @@ import javax.swing.JOptionPane;
 
 public class Ejercicio5 {
 
+	//  @author Adrián Rodriguez
+	
 	public static void main(String[] args) {
 		String text_num1 = JOptionPane.showInputDialog("Introduce el número que quieras");
 		int num1 = Integer.parseInt(text_num1);

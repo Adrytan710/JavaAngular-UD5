@@ -2,6 +2,8 @@ import javax.swing.JOptionPane;
 
 public class Ejercicio12 {
 
+	//  @author Adrián Rodriguez
+	
 	public static void main(String[] args) {
 		String passwd = "hola123";
 		boolean correcto = false;
