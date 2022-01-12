@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Ejercicio13 {
+public class CalculadoraInversa {
 
 	//  @author Adrián Rodriguez
 	
